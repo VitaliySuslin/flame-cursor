@@ -10,12 +10,44 @@ Add a fiery spark to your coding experience! This extension adds a flame icon (â
 
 ## Installation
 
+### For Users
+
 1. Download the `.vsix` file from the releases section.
-2. Open VS Code or Cursor.
-3. Go to Extensions (`Ctrl+Shift+X` or `Cmd+Shift+X`).
+2. Open **VS Code** or **Cursor**.
+3. Go to **Extensions** (`Ctrl+Shift+X` or `Cmd+Shift+X`).
 4. Click on the three dots (...) and select **Install from VSIX...**.
 5. Choose the `.vsix` file and install the extension.
 6. Reload your editor and start typing to see the flame effect!
+
+### For Developers
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-repo/flame-cursor.git
+   cd flame-cursor
+   ```
+
+2. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+3. Compile the project:
+
+   ```bash
+   npm run compile
+   ```
+
+4. Package the extension into a `.vsix` file:
+
+   ```bash
+   npm install -g @vscode/vsce
+   vsce package
+   ```
+
+5. Install the `.vsix` file in your IDE (VS Code or Cursor) as described in the **For Users** section.
 
 ## How It Works
 
