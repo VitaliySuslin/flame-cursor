@@ -1,6 +1,6 @@
 # Flame Cursor Extension
 
-Add a fiery spark to your coding experience! This extension adds a flame icon (⚡️) after every character you type, creating a cool visual effect. The flame icon appears briefly and disappears, giving your cursor a dynamic and fun look.
+Add a fiery spark to your coding experience! This extension adds a flame icon 🔥 after every character you type, creating a cool visual effect. The flame icon appears briefly and disappears, giving your cursor a dynamic and fun look.
 
 ## Features
 
