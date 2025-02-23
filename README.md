@@ -24,7 +24,7 @@ Add a fiery spark to your coding experience! This extension adds a flame icon ðŸ
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-repo/flame-cursor.git
+   git clone https://github.com/VitaliySuslin/flame-cursor
    cd flame-cursor
    ```
 
